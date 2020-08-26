@@ -19,12 +19,11 @@ I can also offer basic skills and understanding in the following:
 -Know how to write test cases and reports
 -Know what are SDLC and STLC and test techniques
 
->>>>>>>>>>>>>>>>>>>>>----------------------------------------------------------------<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 I'm looking for remote tasks for now.
 I can handle quality assurance engineer roles responsibilities 
->>>>>>>>>>>>>>>>>>>>-------------------------------------------------------------------<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 ### Contact me: ruslanapetrova@abv.bg
 
 
