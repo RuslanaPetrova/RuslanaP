@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Ruslana's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/RuslanaPetrova/RuslanaP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here I'll keep my tasks from my programming learning and other tasks and experience that I gain from last year.
 
-### Markdown
+I am a proud owner of these soft skills: ethical, communicative, responsible, organized, adaptive and last but not least a sense of humor.
+I can also offer basic skills and understanding in the following:
+1.Windows
+2.HTML
+3.CSS
+4.SQL(basic)
+5.C++(basic)
+6. Microsoft office
+7.C# funfdamentals(in progress of learning)
+8.Visual studio
+9.Jira
+10.Know how to write bug issues
+11.Know the best QA practice
+12.Know how to write test cases and reports
+13.Know what are SDLC and STLC and test techniques
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+I'm looking for remote tasks for now.
+I can handle quality assurance engineer roles responsibilities 
 
-1. Numbered
-2. List
+### Contact me: ruslanapetrova@abv.bg
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RuslanaPetrova/RuslanaP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
